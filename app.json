@@ -1,5 +1,5 @@
 {
-  "name": "Queen Ruva AI Beta",
+  "name": "Vosty AI Beta",
   "version": "2.4.0",
   "description": "Queen Ruva AI Beta - The Next-Gen WhatsApp Bot Experience | Powered by Iconic Tech",
   "logo": "https://i.ibb.co/7YFvXzH/queen-ruva-ai-beta.jpg",
@@ -12,22 +12,22 @@
   "env": {
     "BOT_NAME": {
       "description": "Your bot's display name (Queen Ruva AI Beta recommended)",
-      "value": "Queen Ruva AI β",
+      "value": "VOST-BOT β",
       "required": true
     },
     "OWNER_NUMBER": {
       "description": "Your WhatsApp number with country code (e.g. 263xxx for Zimbabwe)",
-      "value": "",
+      "value": "254762414548",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Bot owner's name",
-      "value": "Iconic Developer",
+      "value": "Stephen",
       "required": true
     },
     "STICKER_AUTHOR_NAME": {
       "description": "Name that appears on generated stickers",
-      "value": "Queen Ruva AI | Iconic Tech",
+      "value": "VOST-BOT  | I",
       "required": false
     },
     "HEROKU_API_KEY": {
